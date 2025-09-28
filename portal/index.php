@@ -1,0 +1,592 @@
+ <div class="testimonials-container">
+                <div class="testimonial-image-card">
+                    <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRT/2wBDAQMEBAUEBQkFBQkUDQsNFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBT/wAARCAH0AYUDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9/KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACii<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workshop Espelho Mágico - Portal 10/10</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background: linear-gradient(135deg, #0a0a23 0%, #1a0933 25%, #2d1b69 50%, #4a2c85 75%, #6b46c1 100%);
+            color: #ffffff;
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+        
+        .cosmic-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle at 20% 20%, rgba(147, 51, 234, 0.3) 0%, transparent 50%),
+                        radial-gradient(circle at 80% 80%, rgba(59, 130, 246, 0.3) 0%, transparent 50%),
+                        radial-gradient(circle at 40% 40%, rgba(236, 72, 153, 0.2) 0%, transparent 50%);
+            z-index: -1;
+            animation: cosmicPulse 6s ease-in-out infinite;
+        }
+        
+        @keyframes cosmicPulse {
+            0%, 100% { opacity: 0.8; }
+            50% { opacity: 1; }
+        }
+        
+        .stars {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+        }
+        
+        .star {
+            position: absolute;
+            background: #ffffff;
+            border-radius: 50%;
+            animation: twinkle 3s ease-in-out infinite;
+        }
+        
+        .star:nth-child(odd) { animation-delay: 1s; }
+        .star:nth-child(3n) { animation-delay: 2s; }
+        
+        @keyframes twinkle {
+            0%, 100% { opacity: 0.3; transform: scale(1); }
+            50% { opacity: 1; transform: scale(1.2); }
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 20px;
+            position: relative;
+            z-index: 1;
+        }
+        
+        .header {
+            text-align: center;
+            padding: 60px 0;
+            background: linear-gradient(135deg, rgba(147, 51, 234, 0.2), rgba(59, 130, 246, 0.2));
+            border-radius: 20px;
+            margin: 20px 0;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+        }
+        
+        .header h1 {
+            font-size: clamp(2rem, 5vw, 3.5rem);
+            font-weight: 700;
+            background: linear-gradient(135deg, #a855f7, #3b82f6, #ec4899);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 0 30px rgba(168, 85, 247, 0.5);
+            margin-bottom: 20px;
+            animation: glow 2s ease-in-out infinite alternate;
+        }
+        
+        @keyframes glow {
+            from { filter: drop-shadow(0 0 20px rgba(168, 85, 247, 0.7)); }
+            to { filter: drop-shadow(0 0 40px rgba(168, 85, 247, 1)); }
+        }
+        
+        .headline {
+            font-size: clamp(1.2rem, 3vw, 1.8rem);
+            font-weight: 300;
+            color: #e2e8f0;
+            line-height: 1.4;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+        }
+        
+        .section {
+            background: rgba(255, 255, 255, 0.05);
+            backdrop-filter: blur(15px);
+            border-radius: 20px;
+            padding: 40px;
+            margin: 30px 0;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .section::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+            animation: shimmer 3s infinite;
+        }
+        
+        @keyframes shimmer {
+            0% { left: -100%; }
+            100% { left: 100%; }
+        }
+        
+        .section h2 {
+            font-size: clamp(1.5rem, 4vw, 2.2rem);
+            font-weight: 600;
+            color: #a855f7;
+            margin-bottom: 20px;
+            text-align: center;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+        }
+        
+        .pain-points {
+            list-style: none;
+            margin: 20px 0;
+        }
+        
+        .pain-points li {
+            font-size: 1.1rem;
+            margin: 15px 0;
+            padding: 15px 20px;
+            background: rgba(239, 68, 68, 0.1);
+            border-left: 4px solid #ef4444;
+            border-radius: 8px;
+            transition: transform 0.3s ease;
+        }
+        
+        .pain-points li:hover {
+            transform: translateX(10px);
+        }
+        
+        .benefits {
+            list-style: none;
+            margin: 20px 0;
+        }
+        
+        .benefits li {
+            font-size: 1.1rem;
+            margin: 15px 0;
+            padding: 15px 20px;
+            background: rgba(34, 197, 94, 0.1);
+            border-left: 4px solid #22c55e;
+            border-radius: 8px;
+            transition: transform 0.3s ease;
+        }
+        
+        .benefits li:hover {
+            transform: translateX(10px);
+        }
+        
+        .price-section {
+            text-align: center;
+            background: linear-gradient(135deg, rgba(168, 85, 247, 0.2), rgba(59, 130, 246, 0.2));
+            border: 2px solid rgba(168, 85, 247, 0.5);
+            animation: priceGlow 2s ease-in-out infinite alternate;
+        }
+        
+        @keyframes priceGlow {
+            from { box-shadow: 0 0 20px rgba(168, 85, 247, 0.5); }
+            to { box-shadow: 0 0 40px rgba(168, 85, 247, 0.8); }
+        }
+        
+        .price {
+            font-size: clamp(2.5rem, 6vw, 4rem);
+            font-weight: 700;
+            background: linear-gradient(135deg, #ffd700, #ffed4e, #fbbf24);
+            background-clip: text;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            margin: 20px 0;
+        }
+        
+        .reflection-questions {
+            background: rgba(236, 72, 153, 0.1);
+            border: 1px solid rgba(236, 72, 153, 0.3);
+            padding: 30px;
+            border-radius: 15px;
+            margin: 20px 0;
+            font-style: italic;
+            text-align: center;
+        }
+        
+        .reflection-questions p {
+            font-size: 1.2rem;
+            margin: 15px 0;
+            color: #fbbf24;
+        }
+        
+        .cta-button {
+            display: inline-block;
+            background: linear-gradient(135deg, #a855f7, #3b82f6);
+            color: white;
+            padding: 20px 40px;
+            font-size: 1.3rem;
+            font-weight: 600;
+            text-decoration: none;
+            border-radius: 50px;
+            box-shadow: 0 10px 30px rgba(168, 85, 247, 0.4);
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+            text-align: center;
+            margin: 20px auto;
+            display: block;
+            max-width: 400px;
+            animation: ctaPulse 2s ease-in-out infinite;
+        }
+        
+        @keyframes ctaPulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+        }
+        
+        .cta-button:hover {
+            transform: translateY(-5px) scale(1.05);
+            box-shadow: 0 15px 40px rgba(168, 85, 247, 0.6);
+        }
+        
+        .bonus-section {
+            background: linear-gradient(135deg, rgba(34, 197, 94, 0.1), rgba(16, 185, 129, 0.1));
+            border: 1px solid rgba(34, 197, 94, 0.3);
+        }
+        
+        .urgency {
+            text-align: center;
+            color: #fbbf24;
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin: 20px 0;
+            animation: urgent 1s ease-in-out infinite alternate;
+        }
+        
+        @keyframes urgent {
+            from { opacity: 0.7; }
+            to { opacity: 1; }
+        }
+        
+        .emoji {
+            font-size: 1.5rem;
+            margin: 0 5px;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 0 15px;
+            }
+            
+            .section {
+                padding: 25px;
+                margin: 20px 0;
+            }
+            
+            .header {
+                padding: 40px 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="cosmic-bg"></div>
+    <div class="stars"></div>
+    <div class="floating-particles"></div>
+    
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>Workshop Espelho Mágico</h1>
+            <div class="headline">
+                <strong>Portal 10/10</strong><br>
+                + Conexão Portal – 7 dias intensivos de tratamento<br>
+                <span style="color: #fbbf24; font-weight: 600;">Edição Especial</span>
+            </div>
+        </div>
+        
+        <!-- Chamado inicial -->
+        <div class="section">
+            <h2>Você Está Pronta Para Esta Transformação?</h2>
+            <p style="font-size: 1.2rem; text-align: center; margin-bottom: 20px;">
+                Você está pronta para se olhar de frente e enxergar a versão de si mesma que já vive a vida que deseja?
+            </p>
+            <p style="text-align: center; font-size: 1.1rem;">
+                No <strong>Portal 10/10</strong> você terá acesso a um treinamento único: o <strong>Workshop Espelho Mágico</strong>, 
+                somado a <strong>7 dias de tratamentos energéticos intensivos</strong> para abertura de caminhos, prosperidade e reconexão espiritual.
+            </p>
+        </div>
+        
+        <!-- Identificação com o problema -->
+        <div class="section">
+            <h2>💭 Estas Perguntas Ressoam Com Você?</h2>
+            <ul class="pain-points">
+                <li>Quantas vezes você já sentiu que estava presa em um ciclo repetitivo, sem conseguir sair do lugar?</li>
+                <li>Você olha para si mesma e sabe que pode mais, mas parece que sempre existe algo invisível bloqueando seus passos?</li>
+                <li>Já percebeu que, mesmo fazendo muito esforço, a abundância, a clareza e a fluidez parecem escapar?</li>
+            </ul>
+            <div class="reflection-questions">
+                <p><strong>👉 Se essas perguntas ressoam com você, esse workshop não é um evento comum.</strong></p>
+                <p>Ele foi criado para ser a chave que abre os portais que estavam fechados na sua vida.</p>
+            </div>
+        </div>
+        
+        <!-- A transformação -->
+        <div class="section">
+            <h2 class="glow-pulse">A Transformação Te Espera</h2>
+            <p style="font-size: 1.2rem; text-align: center; margin-bottom: 25px;">
+                Imagine olhar no espelho e enxergar não só o seu reflexo, mas <strong>o seu Eu Futuro</strong>, já realizado, abundante e livre.
+            </p>
+            <p style="text-align: center; margin-bottom: 25px;">
+                No <strong>Workshop Espelho Mágico</strong>, você aprenderá a usar o <strong>espelho como ferramenta de conexão com o Duplo Quântico</strong>, colapsando novas realidades.
+            </p>
+            <p style="text-align: center; font-weight: 600; margin-bottom: 20px;">
+                E além do workshop, você terá acesso ao <strong>Conexão Portal – 7 dias consecutivos de tratamento coletivo</strong>:
+            </p>
+            <ul class="benefits">
+                <li>Limpeza energética profunda</li>
+                <li>Ativação do seu Duplo Quântico para manifestação</li>
+                <li>Desprogramação de crenças limitantes</li>
+                <li>Frequências de abundância e prosperidade</li>
+                <li>Alinhamento com o seu propósito</li>
+            </ul>
+        </div>
+        
+        <!-- Preço -->
+        <div class="section price-section">
+            <h2 class="rotate-slow" style="display: inline-block;">Edição Especial</h2>
+            <p style="font-size: 1.2rem; margin-bottom: 20px;">
+                Essa é uma <strong>edição única e especial do Portal 10/10</strong>, onde você terá <strong>workshop + 7 dias de tratamentos</strong> por apenas:
+            </p>
+            <div class="price">R$127,00</div>
+            <p style="font-size: 1.1rem; color: #fbbf24;">
+                Sim, você leu certo. Um valor simbólico para que você não tenha desculpas e dê o passo que pode mudar a sua vida.
+            </p>
+        </div>
+        
+        <!-- Venda invisível -->
+        <div class="section">
+            <h2>E Se...</h2>
+            <div class="reflection-questions">
+                <p>E se em apenas <strong>7 dias</strong> você pudesse sentir mais leveza e clareza do que nos últimos meses?</p>
+                <p>E se o bloqueio que você vem carregando há anos começasse a se desfazer agora?</p>
+                <p>O que você escolheria: continuar onde está ou abrir-se para uma nova versão de si mesma?</p>
+                <p style="color: #22c55e; font-size: 1.3rem; font-weight: 700;" class="glow-pulse">
+                    Se a resposta é <strong>SIM</strong>, então esse chamado é para você.
+                </p>
+            </div>
+        </div>
+        
+        <!-- Quem irá te guiar -->
+        <div class="section instructor-section">
+            <h2 class="glow-pulse">Quem Irá Te Guiar Nessa Jornada</h2>
+            <div class="instructor-container">
+                <div class="instructor-photo">
+                    <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCADIAMgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD/9k=" alt="Aline Kosuzinski" class="instructor-img">
+                </div>
+                <div class="instructor-info">
+                    <h3>Aline Kosuzinski</h3>
+                    <div class="credentials">
+                        <p><strong>Terapeuta e Professora</strong> com mais de <strong>6.000 alunos ao redor do mundo</strong></p>
+                        <p><strong>Autora publicada</strong> e <strong>canalizadora de sistemas energéticos únicos</strong></p>
+                    </div>
+                    <div class="mission">
+                        <p>Sua missão é unir espiritualidade e consciência prática, conduzindo pessoas e terapeutas a desbloquearem potenciais, acessarem novas frequências e manifestarem vidas mais leves, prósperas e alinhadas com seu propósito.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Depoimentos -->
+        <div class="section testimonials-section">
+            <h2 class="glow-pulse">O Que Dizem Quem Já Participou</h2>
+            <div class="testimonials-container">
+                <div class="testimonial">
+                    <div class="testimonial-image">
+                        <img src="https://i.imgur.com/depoimento1.jpg" alt="Depoimento Sandra" class="testimonial-img">
+                    </div>
+                    <div class="testimonial-content">
+                        <p>"Gratidão gratidão gratidão Aline, gratidão a este grupo que se formou. Realmente foram dias, mas trabalhamos anos, muito intenso, não esperava isto, mas superou todas e quaisquer expectativas! Descobri coisas sobre mim, que nem em 36 anos, tinha entendido, muita gratidão mesmo!! Hoje eu sou uma nova Sandra, tenho feito coisas, tenho tido vontade de fazer coisas, e ânimo para isso, como nunca antes, vejo as coisas com outros olhos, completamente diferente!"</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <strong>- Sandra Espírito Santo</strong>
+                    </div>
+                </div>
+
+                <div class="testimonial">
+                    <div class="testimonial-image">
+                        <img src="https://i.imgur.com/depoimento2.jpg" alt="Depoimento Susi" class="testimonial-img">
+                    </div>
+                    <div class="testimonial-content">
+                        <p>"Gratidão Aline por esse trabalho intenso de cura e libertação e reconexão com passado. Gratidão infinita!!! Curados e libertados. Gratidão mentores espirituais, gratidão querida Aline, gratidão querido grupo. Feliz domingo."</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <strong>- Susi Wiest</strong>
+                    </div>
+                </div>
+
+                <div class="testimonial">
+                    <div class="testimonial-image">
+                        <img src="https://i.imgur.com/depoimento3.jpg" alt="Depoimento Mirtes" class="testimonial-img">
+                    </div>
+                    <div class="testimonial-content">
+                        <p>"Tô toda vibrando ainda! Teve um momento que achei que meu coração ia explodir! Essa trabalhou bem a fundo; obrigada Aline, por ser esse canal de cura."</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <strong>- Mirtes Teles</strong>
+                    </div>
+                </div>
+
+                <div class="testimonial">
+                    <div class="testimonial-image">
+                        <img src="https://i.imgur.com/depoimento4.jpg" alt="Depoimento Insônia" class="testimonial-img">
+                    </div>
+                    <div class="testimonial-content">
+                        <p>"Tenho problemas de insônia e dores crônicas. Desde que comecei a ouvir as meditações do portal 11/11 estou sem dores e dormindo muuuiiiittttto!! Algo muito poderoso está acontecendo e sendo realizado !!! Aline gratidão infinita por toda essa energia poderosa e maravilhosa."</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <strong>- Participante Portal 11/11</strong>
+                    </div>
+                </div>
+
+                <div class="testimonial">
+                    <div class="testimonial-image">
+                        <img src="https://i.imgur.com/depoimento5.jpg" alt="Depoimento Otília" class="testimonial-img">
+                    </div>
+                    <div class="testimonial-content">
+                        <p>"Gratidão, este portal desbloqueou o que faltava. Além de sentir estando a nível energético, tenho obtido confirmações práticas no dia a dia. Coisas que não fluíam antes e agora parece fácil."</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <strong>- Otília Sousa</strong>
+                    </div>
+                </div>
+
+                <div class="testimonial">
+                    <div class="testimonial-image">
+                        <img src="https://i.imgur.com/depoimento6.jpg" alt="Depoimento Neila" class="testimonial-img">
+                    </div>
+                    <div class="testimonial-content">
+                        <p>"Gratidão Aline. Foi muito poderoso" e "Senti a cura de uma grande ferida, gratidão"</p>
+                    </div>
+                    <div class="testimonial-author">
+                        <strong>- Neila & Outras Participantes</strong>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section bonus-section">
+            <h2>Bônus Exclusivos</h2>
+            <p style="text-align: center; font-size: 1.2rem; margin-bottom: 25px;">
+                Ao garantir sua vaga, você recebe:
+            </p>
+            <ul class="benefits">
+                <li>Acesso ao <strong>Workshop Espelho Mágico</strong> (imersão de 3h)</li>
+                <li><strong>7 dias de Conexão Portal</strong> com tratamentos coletivos</li>
+                <li>Gravação do workshop para rever sempre que precisar</li>
+                <li>Grupo exclusivo para acompanhamento e suporte durante os 7 dias</li>
+            </ul>
+        </div>
+        
+        <!-- Call to Action -->
+        <div class="section">
+            <h2 class="glow-pulse">Sua Transformação Começa Agora</h2>
+            <p style="text-align: center; font-size: 1.2rem; margin-bottom: 30px;">
+                <strong>Essa é a sua oportunidade de se olhar no espelho e enxergar a versão que já venceu!</strong>
+            </p>
+            
+            <a href="#" class="cta-button" onclick="alert('Redirecionando para o pagamento... 🚀')">
+                Quero viver essa transformação por R$127,00
+            </a>
+            
+            <div class="urgency">
+                Atenção: essa é uma <strong>edição especial</strong>. Assim que o portal se fechar, essa oportunidade também se encerra.
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Criar estrelas animadas
+        function createStars() {
+            const starsContainer = document.querySelector('.stars');
+            const numberOfStars = 150;
+            
+            for (let i = 0; i < numberOfStars; i++) {
+                const star = document.createElement('div');
+                star.className = 'star';
+                star.style.left = Math.random() * 100 + '%';
+                star.style.top = Math.random() * 100 + '%';
+                star.style.width = Math.random() * 3 + 1 + 'px';
+                star.style.height = star.style.width;
+                star.style.animationDelay = Math.random() * 3 + 's';
+                starsContainer.appendChild(star);
+            }
+        }
+        
+        // Criar partículas flutuantes
+        function createFloatingParticles() {
+            const particlesContainer = document.querySelector('.floating-particles');
+            const numberOfParticles = 30;
+            
+            for (let i = 0; i < numberOfParticles; i++) {
+                const particle = document.createElement('div');
+                particle.className = 'particle';
+                particle.style.left = Math.random() * 100 + '%';
+                particle.style.animationDelay = Math.random() * 8 + 's';
+                particle.style.animationDuration = (Math.random() * 4 + 8) + 's';
+                particlesContainer.appendChild(particle);
+            }
+        }
+        
+        // Animação de entrada para seções
+        function animateOnScroll() {
+            const sections = document.querySelectorAll('.section');
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.style.transform = 'translateY(0)';
+                        entry.target.style.opacity = '1';
+                    }
+                });
+            }, { threshold: 0.1 });
+            
+            sections.forEach(section => {
+                observer.observe(section);
+            });
+        }
+        
+        // Efeito de onda no texto
+        function createWaveEffect() {
+            const titles = document.querySelectorAll('h2');
+            titles.forEach(title => {
+                const text = title.textContent;
+                const words = text.split(' ');
+                title.innerHTML = words.map(word => 
+                    `<span class="wave-text">${word}</span>`
+                ).join(' ');
+            });
+        }
+        
+        // Inicializar todos os efeitos quando a página carregar
+        document.addEventListener('DOMContentLoaded', () => {
+            createStars();
+            createFloatingParticles();
+            animateOnScroll();
+            createWaveEffect();
+        });
+        
+        // Adicionar efeito de parallax suave ao scroll
+        window.addEventListener('scroll', () => {
+            const scrolled = window.pageYOffset;
+            const stars = document.querySelector('.stars');
+            const cosmicBg = document.querySelector('.cosmic-bg');
+            
+            stars.style.transform = `translateY(${scrolled * 0.5}px)`;
+            cosmicBg.style.transform = `translateY(${scrolled * 0.3}px)`;
+        });
+    </script>
+</body>
+</html>
